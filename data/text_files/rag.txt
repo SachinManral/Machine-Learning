@@ -1,0 +1,5 @@
+
+Retrieval-Augmented Generation (RAG)
+-----------------------------------
+RAG combines retrieval systems with LLMs to generate accurate responses.
+It retrieves relevant information from external sources before generating answers.

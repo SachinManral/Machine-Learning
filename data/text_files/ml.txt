@@ -1,0 +1,6 @@
+
+Machine Learning
+----------------
+Machine Learning is a subset of Artificial Intelligence.
+It enables systems to learn patterns from data and make predictions.
+Common types include supervised, unsupervised, and reinforcement learning.

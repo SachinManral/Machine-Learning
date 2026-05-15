@@ -1,0 +1,53 @@
+
+Retrieval-Augmented Generation (RAG)
+-----------------------------------
+
+RAG stands for Retrieval-Augmented Generation.
+
+It is an AI architecture that combines:
+1. Information Retrieval
+2. Large Language Models (LLMs)
+
+Instead of relying only on pre-trained knowledge, RAG systems retrieve
+relevant information from external data sources and provide it to the LLM
+before generating a response.
+
+Main Components of RAG:
+-----------------------
+1. Data Ingestion Pipeline
+   - Load documents
+   - Split text into chunks
+   - Create embeddings
+   - Store embeddings in a vector database
+
+2. Retrieval Pipeline
+   - User sends a query
+   - Query is converted into embeddings
+   - Similar chunks are retrieved from vector database
+   - Retrieved context is passed to the LLM
+
+Benefits of RAG:
+----------------
+- Reduces hallucination
+- Provides up-to-date information
+- Improves response accuracy
+- Allows private/custom knowledge integration
+
+Popular Tools Used in RAG:
+--------------------------
+- LangChain
+- ChromaDB
+- FAISS
+- OpenAI Embeddings
+- Hugging Face Transformers
+
+Applications of RAG:
+--------------------
+- AI Chatbots
+- Document Question Answering
+- Enterprise Knowledge Assistants
+- Research Systems
+- Customer Support Systems
+
+RAG is widely used in modern Generative AI applications because it helps
+LLMs generate responses grounded in real and relevant information.

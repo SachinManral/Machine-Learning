@@ -1,0 +1,5 @@
+
+Natural Language Processing
+---------------------------
+NLP is a field of AI focused on understanding and processing human language.
+Applications include chatbots, translation systems, and sentiment analysis.
